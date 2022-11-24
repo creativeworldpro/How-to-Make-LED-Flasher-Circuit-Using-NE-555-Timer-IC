@@ -15,11 +15,14 @@ The circuit can be used as a flashing metronome, dark room timer, memo-reminder 
 In figure 1 the LED will be ON for a short period of time and OFF for a longer period. The duty cycle can be reversed if the LED is connected as shown in figure 2 but the battery consumption will also increase due to the fact that the LED will stay ON for a longer period of time.
 
 
+
 Component List - 
 
 To make this LED flasher circuit using NE-555 timer IC, we might need some electronics component. You can order your assembled SMT circuit form JLCPCB.
 
+
 All components list have been given below –
+
 
 Component List – 
 
@@ -32,6 +35,7 @@ Component List –
 4.	LED – 3v (20mA)
 
 5.	Power Source – 9v
+
 
 NE555 Pin Out - 
 
@@ -59,7 +63,8 @@ The internal block diagram and schematic of the 555 timer are highlighted with t
 
 8. VCC - This is the power supply pin and for general purpose TTL 555 
        timers is between 4.5V and 15V.
-       
+   
+
 Feature - 
 
 	Variety of Timer
@@ -91,6 +96,7 @@ To make this simple LED flasher circuit using NE-555 timer IC, we need to follow
 
 Especially if you want to make a LED light effect project. Remember, to make led light flasher circuit using NE-555 IC you might need this connection.
 
+
 Circuit Connection – Step 2
 
 It is time to connect, 100µf/25v capacitor with the circuit. We connect capacitor cathode leg with 1no leg of timer IC, and then connect capacitor anode leg with 2no leg of timer IC.
@@ -111,6 +117,7 @@ Circuit Connection – Step 4
 
 Our circuit is not going to ready for use now. Just need to connect 9v power supply with the circuit. We connect this power supply negative cable with 1 no leg of timer IC and power supply positive cable with 8no leg of timer IC.
 Now just plug-in power and enjoy the awesome effect of this circuit.
+
 
 
 Steps to Order PCBs From JLCPCB
@@ -149,6 +156,7 @@ To order your SMT PCBs, visit JLCPCB.
 9.	 For SMT Service, Click here.
 
 
+
 Shipping and Billing - 
 
 JLCPCB supported all shipping method can be seen below.
@@ -172,11 +180,15 @@ ePacket 15-25 business days
 Registered Air Mail 15-20 business days
 
 
+
 JLCPCB supported Payment method.
+
 
 •	PayPal
 
+
 •	Credit/Debit Care
+
 
 •	Prepaid wire transfer
 
@@ -185,6 +197,9 @@ JLCPCB supported Payment method.
 
 Confirm PCBs Order
 
+
 To confirm your order, pay your payment. Then accept PayPal, Credit/Debit Card, and Prepaid Wire Transfer. To manufacture your PCBs, it’ll take about 2 days. DHL will be fastest shipping method to arrive your ordered PCBs at your location.
+
 All PCBs were well packed and quality was really good.
+
 Thanks to JLCPCB for best quality PCBs.
